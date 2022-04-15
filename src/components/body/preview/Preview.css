@@ -1,0 +1,14 @@
+.preview{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center; 
+    width: 100vw;
+    height: 60vh;
+    
+}
+
+.preview-title{
+    color: white;
+    font-size: 15px;
+}   
